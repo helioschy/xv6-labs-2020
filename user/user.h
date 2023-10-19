@@ -7,7 +7,7 @@ int exit(int) __attribute__((noreturn));
 int wait(int*);
 int pipe(int*);
 int write(int, const void*, int);
-int read(int, void*, int);
+int read(int, void*, int); 
 int close(int);
 int kill(int);
 int exec(char*, char**);
