@@ -12,6 +12,7 @@ int main(){
     else{
         printf("parent\n");
     }
+    
     exit(0);
 
 }
